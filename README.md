@@ -9,7 +9,7 @@
 --------------------------------
 Prueba tecnica Benjamin Vallory.
 --------------------------------
-
+Carpeta imagenes se puede apreciar el resultado que obtuve en mi local.
 --------------------------------
 Hola en app/http/controllers/TaskController.php podran encontrar el codigo
 que hice para la prueba tecnica. El resultado de la evaluacion se encuentra en
